@@ -19,6 +19,7 @@ N/A
 Select the hour to add a task description and then click the save button to save the task and come back no matter the hour of day and check on tasks past, present, or future.
 
 ![Screenshot 2023-07-03 163012](https://github.com/BLam1226/WorkDay-Scheduler/assets/127125695/402e4173-614b-4e70-aa57-9e643e99829e)
+![Screenshot 2023-07-03 163114](https://github.com/BLam1226/WorkDay-Scheduler/assets/127125695/61a3e84d-716a-4eab-9516-764eaf52854b)
 
 ### Credits
 
